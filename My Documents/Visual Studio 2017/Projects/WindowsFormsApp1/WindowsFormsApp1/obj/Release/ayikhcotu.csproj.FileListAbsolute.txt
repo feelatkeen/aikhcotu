@@ -1,0 +1,10 @@
+c:\users\feel\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+c:\users\feel\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+c:\users\feel\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\ayikhcotu.csproj.GenerateResource.Cache
+c:\users\feel\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+c:\users\feel\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+c:\users\feel\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+c:\users\feel\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form2.resources
+c:\users\feel\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+c:\users\feel\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+C:\Users\feel\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\ayikhcotu.csprojResolveAssemblyReference.cache
